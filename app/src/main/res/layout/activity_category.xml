@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/korea"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".category">
+
+    <TextView
+        android:id="@+id/mensclothing"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="20dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_weight="0.5"
+        android:text="FOOD'S"
+        android:layout_gravity="end"
+        android:gravity="fill_vertical"/>
+
+    <TextView
+        android:id="@+id/womensclothing"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="fill_vertical"
+        android:layout_marginHorizontal="20dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="20dp"
+        android:layout_weight="0.5"
+        android:text="DRINK'S"/>
+
+</LinearLayout>

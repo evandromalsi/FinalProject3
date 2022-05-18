@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/bg_item_rounded.xml" value="0.1375" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/bg_navbar.xml" value="0.1375" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/bg_search.xml" value="0.1375" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/bg_title.xml" value="0.1375" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/bg_title_demo.xml" value="0.1375" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_about_pages.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_admin.xml" value="0.22" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_category.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_data_staff.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_data_stock.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_detail_product.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_home_user.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_login_admin.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_login_staff.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_login_user.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_preview_list.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_product_list.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_register_user.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/menu/navigation_menu.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/menu/tes.xml" value="0.2" />
+        <entry key="..\:/Users/evand/StudioProjects/FinalProject3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1305" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

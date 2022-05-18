@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FCF0D6"
+    tools:context=".aboutPages">
+
+    <ImageView
+        android:id="@+id/pagesFamily"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/img" />
+
+    <TextView
+        android:id="@+id/teamMember3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pagesFamily"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Team Member 4"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/kampusMerdeka"
+        android:layout_below="@+id/teamMember3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:text="Kampus Merdeka Hacktiv8" />
+
+    <TextView
+        android:id="@+id/university"
+        android:layout_below="@+id/kampusMerdeka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:text="University" />
+
+    <TextView
+        android:id="@+id/connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/ig"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Connect with us:" />
+
+    <ImageView
+        android:id="@+id/ig"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/instagram"/>
+
+    <ImageView
+        android:id="@+id/linkedin"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/gitHub"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/linkedin"/>
+
+    <ImageView
+        android:id="@+id/gitHub"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/github"/>
+
+    <ImageView
+        android:id="@+id/facebook"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/gitHub"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/facebook"/>
+
+    <ImageView
+        android:id="@+id/twitter"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/twitter"/>
+
+</RelativeLayout>
