@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/korea"
+    android:background="@drawable/img_2"
     android:orientation="vertical"
     android:weightSum="1"
     tools:context=".category">
@@ -17,7 +17,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_weight="0.5"
-        android:text="FOOD'S"
+        android:text=""
         android:layout_gravity="end"
         android:gravity="fill_vertical"/>
 
@@ -31,6 +31,6 @@
         android:textStyle="bold"
         android:paddingLeft="20dp"
         android:layout_weight="0.5"
-        android:text="DRINK'S"/>
+        android:text=""/>
 
 </LinearLayout>

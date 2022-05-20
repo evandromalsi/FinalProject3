@@ -19,19 +19,19 @@ public class category extends AppCompatActivity {
 
         menClothing.setOnClickListener(v -> {
             Intent intent = new Intent(this, com.malsi.finalproject3.productList.class);
-            intent.putExtra("tShirt", R.drawable.samyang);
-            intent.putExtra("formals", R.drawable.topoki);
-            intent.putExtra("bottomwear", R.drawable.rabboki);
-            intent.putExtra("shoes", R.drawable.kimchi);
+            intent.putExtra("tShirt", R.drawable.img);
+            intent.putExtra("formals", R.drawable.img);
+            intent.putExtra("bottomwear", R.drawable.img);
+            intent.putExtra("shoes", R.drawable.img);
             startActivity(intent);
         });
 
         womenClothing.setOnClickListener(v -> {
             Intent intent = new Intent(this, com.malsi.finalproject3.productList.class);
-            intent.putExtra("tShirt", R.drawable.chisung);
-            intent.putExtra("formals", R.drawable.olatte);
-            intent.putExtra("bottomwear", R.drawable.soju);
-            intent.putExtra("shoes", R.drawable.milkis);
+            intent.putExtra("tShirt", R.drawable.img);
+            intent.putExtra("formals", R.drawable.img);
+            intent.putExtra("bottomwear", R.drawable.img);
+            intent.putExtra("shoes", R.drawable.img);
             startActivity(intent);
         });
     }

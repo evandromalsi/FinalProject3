@@ -19,12 +19,12 @@
             android:id="@+id/txtshirt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Samyang"
-            android:textColor="@color/black"
-            android:layout_marginLeft="20dp"
             android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:text="Produk 1"
+            android:textColor="@color/black"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
     <LinearLayout
         android:id="@+id/formalClothes"
@@ -38,12 +38,12 @@
             android:id="@+id/txtformal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Topoki"
-            android:textColor="@color/black"
             android:layout_gravity="center"
             android:layout_margin="20dp"
+            android:text="Produk 2"
+            android:textColor="@color/black"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -59,12 +59,12 @@
             android:id="@+id/txtbottomwear"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Rabboki"
-            android:textColor="@color/black"
             android:layout_gravity="center"
             android:layout_margin="20dp"
+            android:text="Produk 3"
+            android:textColor="@color/black"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -79,12 +79,12 @@
             android:id="@+id/txtshoes"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Kimchi"
-            android:textColor="@color/black"
             android:layout_gravity="center"
             android:layout_margin="20dp"
+            android:text="Produk 4"
+            android:textColor="@color/black"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
